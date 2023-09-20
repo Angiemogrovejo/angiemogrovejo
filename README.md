@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Angie Mogrovejo</h1>
-<h3 align="center">A passionate about traveling</h3>
+<h3 align="center"> passionate about traveling</h3>
 
 - 📫 How to reach me **angievalentina95010@gmail.com**
 
